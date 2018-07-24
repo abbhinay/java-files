@@ -1,0 +1,4 @@
+sachi,hibernate,7000
+anmol,web-service,6000
+abhinay,servlets,5000
+zaid,angular,6000
